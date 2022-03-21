@@ -9,20 +9,22 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px;
+  margin: 0% 10% 0% 10%;
+  /* padding: 30px;
   margin-left: 200px;
-  margin-right: 220px;
+  margin-right: 220px; */
 }
 
 .dark {
   background-color: #1F2937;
+  margin: 0% 10% 0% 10%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   justify-content: space-around;
-  padding-left: 110px;
+  /* padding-left: 110px;
   margin-left: 200px;
-  margin-right: 220px;
+  margin-right: 220px; */
 }
 
 .placeholder {
@@ -43,10 +45,8 @@ header {
 .links {
   list-style: none;
   display: flex;
-  /* gap: 50px; */
   margin-right: auto; 
-  /* flex-direction: row; */
-  /* justify-content: space-between; */
+  
 }
 
 a.link {
@@ -99,6 +99,35 @@ button {
   color: #F9FAF8;
   border-radius: 5px;
 }
+
+.white {
+  background-color:#F9FAF8;
+  margin: 0% 10% 0% 10%;
+  display: flex;
+  flex-direction: column;
+}
+
+.white-header {
+  justify-self: center;
+  font-size: 36px;
+}
+
+.white-img{
+  display: flex;
+  flex-direction: row;
+}
+
+.white-img img{
+  border: 1px solid black;
+  width: 52px;
+  border-radius: 5px;
+}
+
+.grey {
+  background-color: #e5e7eb;
+  margin: 0% 10% 0% 10%;
+}
+
 
 
 
