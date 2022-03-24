@@ -1,2 +1,2 @@
 # theodinproject-Landing-Page
-the odin project - Landing Page
+check it online: https://drg0n20.github.io/theodinproject-Landing-Page
